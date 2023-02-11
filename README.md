@@ -1,7 +1,7 @@
 # Background image slider made with only HTML, CSS & JavaScript
-This repository is a part of my blog post that shows [:trophy: how to create a testimonial slider](https://shihabiiuc.com/background-slider/).
+This repository is a part of my blog post that shows [:trophy: how to create a background image slider](https://shihabiiuc.com/background-slider/).
 
-This template available for download.
+You can download and use this slider template on your own projects.
 
 
 ### See live page (GitHub Pages)
